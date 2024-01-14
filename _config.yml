@@ -30,12 +30,11 @@ twitter_username: zaferopolos
 github_username:  zaferopolos
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-# theme: Minima
+theme: Minima
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
