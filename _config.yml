@@ -30,7 +30,7 @@ twitter_username: zaferopolos
 github_username:  zaferopolos
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
