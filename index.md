@@ -2,122 +2,40 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Welcome
+---
 
-[Link to another page](./another-page.html).
+Welcome to my CS-499 Capstone project.  The 3 artifacts within this ePortfolio will demonstrate some of the core skills and knowledge gained from the Computer Science curriculum here at Southern New Hampshire University.  The first enhamcement will feature Software and Engineering skills, highlighting the ability to port an existing application to a new language.  The second enhancement will demonstrate my abilities in Algorithm and Data Structures, where a new feature of an existing application is identified and implemented.  The Third and Final enhancement will feature my database skills, where an interface to a manage a MongoDB database through a graphical interface created in Python.
 
-There should be whitespace between paragraphs.
+## Self-Assessment
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Self assessment entered here
 
-# Header 1
+## Code Review
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<img src="./pics/code-review.png" style = "float: left; margin: 5px;" alt="Code Review"> The code review is an important aspect of software development.  Code reviews are used to provide positive scrutiny of anothers work.  Code reviews provide a mechanism to analyze code functionality, ensure use of good coding practices, identify potential coding errors, and finaly, suggest improvements for the project.  This code review will analyze an application introduced in the second year of the curriculum.  The app introduces the pros and cons of linked lists.  This artifact will be the main basis for all three of the enhancements outlined in this ePortfolio.  The artifact will be ported to Python in the first enhancement.  The second enhancement will introduce a new save function to the app, preserving data in a MongoDB database.  Finally the Third enhancement will remove the linked list functionality, and provide tools to manipulate the data directly in the database.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[View the code review](./codeReview/codeReview.html)
 
 
-### Definition lists can be used with HTML syntax.
+## Software Design and Engineering
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<img src="./pics/software-engineering.png" style = "float: left; margin: 5px;" alt="Software Engineering">The first artifact to be enahced, will be the C++ version of the LinkedList app discussed in the code review.  The application will be ported to the Python language.  Python is a natural language for a data driven app such as this.  
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[View first enhancement here](./enhancement1/enhancement1.html)
 
-```
-The final element.
-```
+## Algorithm and Structures
+---
+
+<img src="./pics/algorithm.png" style = "float: left; margin: 5px;" alt="Algorithm and Data Structures"> Introduction to second artifact.
+
+[View second enhancement here](./enhancement2/enhancement2.html)
+
+## Databases
+---
+
+<img src="./pics/non-relational.png" style = "float: left; margin: 5px;" alt="Databases">Introduction to third artifact.
+
+[View third enhancement here](./enhancement3/enhancement3.html)
