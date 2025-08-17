@@ -44,6 +44,6 @@ The third and final enhancement in the ePortfolio will demonstrate my abilities 
 
 [View third enhancement here](./enhancement3/enhancement3.html)
 
-### Project Resources
+#### Project Resources
 ---
-[Raw project resources](./Project%20Resources/)
+[Raw project resources](./ProjectResources/)
