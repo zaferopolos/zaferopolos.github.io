@@ -43,3 +43,7 @@ The third and final enhancement in the ePortfolio will demonstrate my abilities 
 <img src="./pics/non-relational.png" style = "float: left; margin: 5px;" alt="Databases">IThe artifact for the third enhancement is yet another continuation of my work with the linked list application found in module three of CS260 “Data Structures and Algorithms”.  In the second enhancement, there was a MongoDB database introduced to the link list application.  This database provided a way to remove and save bids to a more permanent structure than a linked list, which is lost when application is closed.   With the introduction of the database into the application, the linked list is no longer necessary.  The third enhancement involves eliminating the linked list from the application and replacing its functionality with database management tools, enabling direct addition, removal, and search operations within the database.   In addition to the database management functionality, a simple GUI was created using Tkinter, providing ease of use, and a little more sophistication to the artifact.
 
 [View third enhancement here](./enhancement3/enhancement3.html)
+
+### Project Resources
+---
+[Raw project resources](./Project%20Resources/)
