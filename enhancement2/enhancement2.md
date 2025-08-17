@@ -8,7 +8,7 @@ layout: default
 <h5 style="text-align:center;">Screenshot of enhanced LinkedList app with save to database option</h5> 
 ![LinkedListEnhanced](../pics/LinkListEnhanced.png)
 
-<h5 style="text-align:center;">Code added to original app to create savew to database feature.</h5> 
+<h5 style="text-align:center;">Code added to original app to create the save to database feature.</h5> 
 
 ```python
 #converts nodes of linked list to dictionaries, and sends the converted data to a MongoDB
@@ -35,7 +35,11 @@ layout: default
 ```
 ***Purge method included to clear database.  Purge intended for testing purposes only***
 
+<<<<<<< Updated upstream
 Download code for enhancement two <a href="./code/LinkListEnhanced.zip">here</a>
+=======
+Download code for enhancement two <a href="./code/LinkListEnhanced.zip"><u>here</u></a>
+>>>>>>> Stashed changes
 
 ## Narrative
 ---
